@@ -1,5 +1,5 @@
 <?php
 
-header('Location: /indexsqlite.html');
+ header('Location: /indexsqlite.html');
 
 ?>
